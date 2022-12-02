@@ -1,7 +1,6 @@
 data/
 .VSCodeCounter/
 .vscode/
-.ssh/
 
 d2l_learn/CNN/path/
 d2l_learn/CNN/runs/
