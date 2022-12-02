@@ -1,1 +1,6 @@
-d2l_learn/CNN/data/
+data/
+.VSCodeCounter/
+.vscode/
+
+d2l_learn/CNN/path/
+d2l_learn/CNN/runs/
